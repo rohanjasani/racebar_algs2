@@ -88,4 +88,12 @@ The script includes a custom color scheme for each team. You can modify these co
 
 ## Author
 
+<<<<<<< HEAD
 Rohan Jasani
+=======
+[Your Name]
+
+## License
+
+[Specify the license under which this project is released, e.g., MIT, GPL, etc.]
+>>>>>>> 61689ac29159ff27f2a586f0d41cfcdac1b3f2e3
