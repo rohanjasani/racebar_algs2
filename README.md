@@ -1,11 +1,8 @@
----
-title: "ALGS Race Chart Project"
-output: github_document
----
+# ALGS Race Chart Project
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+## Description
+This R project creates an animated race bar chart visualization for the Apex Legends Global Series (ALGS) Split 2 Playoff Finals...
+
 
 ## Description
 
